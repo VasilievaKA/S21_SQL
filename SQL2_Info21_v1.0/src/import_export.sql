@@ -1,0 +1,21 @@
+call export_to_csv('verter', '/Users/biancara/SQL2_Info21_v1.0-1/src/csv/verter.csv');
+call export_to_csv('peers', '/Users/biancara/SQL2_Info21_v1.0-1/src/csv/peers.csv');
+call export_to_csv('tasks', '/Users/biancara/SQL2_Info21_v1.0-1/src/csv/tasks.csv');
+call export_to_csv('checks', '/Users/biancara/SQL2_Info21_v1.0-1/src/csv/checks.csv');
+call export_to_csv('p2p', '/Users/biancara/SQL2_Info21_v1.0-1/src/csv/p2p.csv');
+call export_to_csv('transferredpoints', '/Users/biancara/SQL2_Info21_v1.0-1/src/csv/transferredPoints.csv');
+call export_to_csv('friends', '/Users/biancara/SQL2_Info21_v1.0-1/src/csv/friends.csv');
+call export_to_csv('recommendations', '/Users/biancara/SQL2_Info21_v1.0-1/src/csv/recommendations.csv');
+call export_to_csv('xp', '/Users/biancara/SQL2_Info21_v1.0-1/src/csv/xp.csv');
+call export_to_csv('timetracking', '/Users/biancara/SQL2_Info21_v1.0-1/src/csv/timeTracking.csv');
+
+call import_from_csv('peers', 'C:\Users\User\School21\SQL\SQL2_Info21_v1.0-1-develop\src\csv\peers.csv');
+call import_from_csv('tasks', 'C:\Users\User\School21\SQL\SQL2_Info21_v1.0-1-develop\src\csv\tasks.csv');
+call import_from_csv('checks', 'C:\Users\User\School21\SQL\SQL2_Info21_v1.0-1-develop\src\csv\checks.csv');
+call import_from_csv('verter', 'C:\Users\User\School21\SQL\SQL2_Info21_v1.0-1-develop\src\csv\verter.csv');
+call import_from_csv('p2p', 'C:\Users\User\School21\SQL\SQL2_Info21_v1.0-1-develop\src\csv\p2p.csv');
+call import_from_csv('transferredpoints', 'C:\Users\User\School21\SQL\SQL2_Info21_v1.0-1-develop\src\csv\transferredPoints.csv');
+call import_from_csv('friends', 'C:\Users\User\School21\SQL\SQL2_Info21_v1.0-1-develop\src\csv\friends.csv');
+call import_from_csv('recommendations', 'C:\Users\User\School21\SQL\SQL2_Info21_v1.0-1-develop\src\csv\recommendations.csv');
+call import_from_csv('xp', 'C:\Users\User\School21\SQL\SQL2_Info21_v1.0-1-develop\src\csv\xp.csv');
+call import_from_csv('timetracking', 'C:\Users\User\School21\SQL\SQL2_Info21_v1.0-1-develop\src\csv\timeTracking.csv');

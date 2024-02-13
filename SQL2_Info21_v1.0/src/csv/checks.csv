@@ -1,0 +1,30 @@
+id,peer_name,task_name,check_date
+1,joramuns,C2_SimpleBashUtils,2022-12-07
+2,jeanicet,C2_SimpleBashUtils,2022-12-28
+3,butterbs,C3_s21_string+,2023-01-02
+4,tangleto,C3_s21_string+,2023-01-03
+5,butterbs,DO1_Linux,2023-01-07
+6,joramuns,C3_s21_string+,2023-01-12
+7,jeanicet,DO1_Linux,2023-01-12
+8,tangleto,DO1_Linux,2023-01-12
+9,kokoschk,DO2_Linux Network,2023-02-04
+10,jeanicet,DO2_Linux Network,2023-02-12
+11,kokoschk,C6_s21_matrix,2023-02-15
+12,joramuns,C4_s21_math,2023-02-18
+13,butterbs,DO2_Linux Network,2023-02-21
+14,tangleto,DO2_Linux Network,2023-02-21
+15,jeanicet,DO3_LinuxMonitoring v1.0,2023-02-21
+16,butterbs,DO3_LinuxMonitoring v1.0,2023-02-25
+17,joramuns,C5_s21_decimal,2023-03-02
+18,butterbs,DO4_LinuxMonitoring v2.0,2023-03-07
+19,jeanicet,DO4_LinuxMonitoring v2.0,2023-03-07
+20,tangleto,C4_s21_math,2023-03-07
+21,kokoschk,C7_SmartCalc_v1.0,2023-04-01
+22,joramuns,C6_s21_matrix,2023-04-03
+23,butterbs,DO5_SimpleDocker,2023-04-10
+24,butterbs,DO6_CICD,2023-04-15
+25,joramuns,C7_SmartCalc_v1.0,2023-05-06
+26,joramuns,C8_3DViewer_v1.0,2023-06-01
+27,kokoschk,C5_s21_decimal,2023-09-01
+28,kokoschk,C5_s21_decimal,2023-09-05
+29,jolteona,SQL1_Bootcamp,2023-09-06
